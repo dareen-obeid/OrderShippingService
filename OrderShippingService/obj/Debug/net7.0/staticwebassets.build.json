@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YBbfWq5ByVwXEMmIOAxVbzBqJDryNgh4R1pd5+PPlPc=",
+  "Source": "OrderShippingService",
+  "BasePath": "_content/OrderShippingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

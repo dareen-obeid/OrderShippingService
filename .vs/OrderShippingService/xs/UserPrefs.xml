@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{16098345-381A-491A-B694-933E2E1928B3}|https">
+  <MonoDevelop.Ide.ItemProperties.OrderShippingService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Controllers/ShippingStatusController.cs">
+    <Files>
+      <File FileName="Domain/Models/ShippingStatus.cs" Line="14" Column="1" />
+      <File FileName="Domain/Models/OrderShipping.cs" />
+      <File FileName="Infrastructure/Data/ApplicationDbContext.cs" />
+      <File FileName="Presentation/Controllers/ShippingStatusController.cs" Line="41" Column="61" />
+      <File FileName="Application/DTOs/OrderShippingDto.cs" />
+      <File FileName="Application/DTOs/ShippingStatusDto.cs" Line="9" Column="1" />
+      <File FileName="Application/Mappings/MappingProfile.cs" Line="14" Column="73" />
+      <File FileName="Domain/RepositoriyInterfaces/IOrderShippingRepository.cs" Line="15" Column="1" />
+      <File FileName="Infrastructure/Repositories/OrderShippingRepository.cs" Line="65" Column="10" />
+      <File FileName="Application/Services/Interface/IOrderShippingService.cs" Line="13" Column="77" />
+      <File FileName="Application/Services/OrderShippingService.cs" Line="55" Column="78" />
+      <File FileName="Application/Validation/IValidator.cs" Line="7" Column="6" />
+      <File FileName="Application/Validation/OrderShippingValidator.cs" Line="16" Column="10" />
+      <File FileName="OrderShippingService/Middleware/ExceptionHandlingMiddleware.cs" Line="33" Column="10" />
+      <File FileName="Application/Validation/ShippingStatusValidator.cs" Line="12" Column="10" />
+      <File FileName="OrderShippingService/Program.cs" Line="58" Column="27" />
+      <File FileName="OrderShippingService/appsettings.json" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrderShippingService" expanded="True">
+            <Node name="Application">
+              <Node name="Mappings" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interface" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Domain">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="RepositoriyInterfaces" expanded="True" />
+            </Node>
+            <Node name="Infrastructure">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="ShippingStatusController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

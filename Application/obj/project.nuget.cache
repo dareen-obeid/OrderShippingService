@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wybHQH78kaBGjdJrssnZGX5/V8W4/aGXNpfLr8MRDPX4WBKdwJekJLJQznCTmffYp1aCnClBtn/EOs3uDO9zEw==",
+  "success": true,
+  "projectFilePath": "/Users/dareenobeid/Projects/OrderShippingService/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/dareenobeid/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/dareenobeid/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
